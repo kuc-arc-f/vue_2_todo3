@@ -15,7 +15,7 @@
     "vue": "^2.6.10",
     "vue-nl2br": "^0.1.1",
     "vue-router": "^3.0.1",
-    "marked": "^0.6.2"
+    "marked": "^1.1.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.6.0",
